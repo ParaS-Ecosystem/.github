@@ -39,10 +39,10 @@ Its **open and extensible architecture** positions ParaS as a **sustainable soft
 ### 🔹 [ParaS Applications](https://github.com/CDAC-SSDG/ParaS-Ecosystem/tree/main/ParaS-Application)
 Built on the ParaS ecosystem, these reference and domain-specific applications demonstrate scalable performance and portability for scientific, engineering, and AI workloads across heterogeneous platforms.
 
-### 🔹 [CLAP library]([CLAP](https://github.com/ParaS-Ecosystem/CLAP-Library))
+### 🔹 [CLAP library](https://github.com/ParaS-Ecosystem/CLAP-Library)
 CLAP provides unified and optimized BLAS, LAPACK, FFT, and PDE solvers for CPUs, GPUs, and accelerators within a single scalable framework.
 
-### 🔹 [ParaS Compiler]([ParaS-Compiler](https://github.com/ParaS-Ecosystem/ParaS-Compiler))
+### 🔹 [ParaS Compiler](https://github.com/ParaS-Ecosystem/ParaS-Compiler)
 The ParaS Compiler, compliant with SYCL 2020, enables “Code Once, Execute on All” programming by abstracting hardware complexity and ensuring long-term portability.
 
 ### 🔹 [ParaS Tools](https://github.com/CDAC-SSDG/ParaS-Ecosystem/tree/main/ParaS-Tools)
