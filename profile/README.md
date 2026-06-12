@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-<img src="https://github.com/CDAC-SSDG/ParaS-Ecosystem/blob/main/Paras%20ecosystem%20logo.png" width="200" height="200" style="">
+<img src="https://github.com/ParaS-Ecosystem/.github/blob/main/Paras%20ecosystem%20logo%20(1).png" width="200" height="200" style="">
 <br>
   ParaS-Ecosystem
 </p>
