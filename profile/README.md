@@ -36,17 +36,14 @@ Its **open and extensible architecture** positions ParaS as a **sustainable soft
 ---
 ## ⚙️ Components
 
-### 🔹 [ParaS Applications](https://github.com/CDAC-SSDG/ParaS-Ecosystem/tree/main/ParaS-Application)
-Built on the ParaS ecosystem, these reference and domain-specific applications demonstrate scalable performance and portability for scientific, engineering, and AI workloads across heterogeneous platforms.
-
 ### 🔹 [CLAP library](https://github.com/ParaS-Ecosystem/CLAP-Library)
 CLAP provides unified and optimized BLAS, LAPACK, FFT, and PDE solvers for CPUs, GPUs, and accelerators within a single scalable framework.
 
 ### 🔹 [ParaS Compiler](https://github.com/ParaS-Ecosystem/ParaS-Compiler)
 The ParaS Compiler, compliant with SYCL 2020, enables “Code Once, Execute on All” programming by abstracting hardware complexity and ensuring long-term portability.
 
-### 🔹 [ParaS Tools](https://github.com/CDAC-SSDG/ParaS-Ecosystem/tree/main/ParaS-Tools)
-ParaS offers debuggers, profilers, and performance analyzers that enhance application visibility, correctness, and optimization on heterogeneous platforms
+### 🔹 [Framework-Torch-ParaS](https://github.com/ParaS-Ecosystem/Framework-Torch-ParaS)
+Framework-Torch-ParaS hosts HPC and AI frameworks integrated with ParaS backend support, enabling seamless, portable, and high-performance execution across heterogeneous computing architectures.
 
 ---
 ## 🤝 Contributing
@@ -56,6 +53,9 @@ Contributions are welcome!
 You can open issues for bug reports, feature requests, or improvements, and submit pull requests for review.
 
 ## 📜 License
-•	ParaS Compiler and Runtime : Apache License 2.0
 
-•	Mathematical Libraries, Communication Libraries, Developer Tools and Applications : GNU Lesser General Public License (LGPL)
+| Component | License |
+|----------|---------|
+| ParaS Compiler | Apache License 2.0 |
+| CLAP Library | GNU Lesser General Public License v3 (LGPL v3) |
+| Framework-Torch-ParaS | GNU Lesser General Public License v3 (LGPL v3) |
